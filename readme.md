@@ -1,4 +1,4 @@
-# ChessRepertoire
+# PlayerRepertoire
 
 A C++ application for generating player-specific opening repertoire trees from (multiple) PGN files.
 
